@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin/
+Disallow: /login/
+Disallow: /cart/
+
+Sitemap: https://www.spaceistheplace.ca/sitemap.xml
