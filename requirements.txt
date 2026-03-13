@@ -1,3 +1,4 @@
+networkx
 fastapi
 uvicorn
 requests
@@ -5,4 +6,3 @@ beautifulsoup4
 pydantic
 httpx
 tldextract
-networkx
